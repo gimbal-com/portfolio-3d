@@ -3,41 +3,14 @@ import {
   backend,
   creator,
   web,
-  // AI,
-  // keras,
-  // pytorch,
-  // tensorflow,
-  // javascript,
-  // typescript,
-  // html,
-  // css,
   reactjs,
-  // redux,
-  // tailwind,
-  // nodejs,
   mongodb,
   git,
-  // figma,
 
-
-  summarizer,
-  tiktok,
-  lyriks,
-
-
-
-  // zombie,
   threejs,
-  // codechef,
-  // Portfolio,
-  // te,
   vue,
-  // angular,
-  // gatsby,
   next,
   mysql,
-  // qt,
-  // python,
   express,
   nest,
   docker,
@@ -252,7 +225,6 @@ const projects = [
     ],
     image: cogmento,
     site_link: "https://tiktok-mimic.vercel.app",
-    source_code_link: "https://github.com/crveskig/tiktok-mimic.git",
   },
   {
     name: "Goons of Balatroon",
@@ -274,7 +246,6 @@ const projects = [
     ],
     image: goons,
     site_link: "https://lyriks-mimic.netlify.app",
-    source_code_link: "https://github.com/crveskig/lyriks.git",
   },
   {
     name: "HummingBot.io",
@@ -296,7 +267,6 @@ const projects = [
     ],
     image: humming,
     site_link: "https://ai-summarizer-zeta.vercel.app",
-    source_code_link: "https://github.com/crveskig/ai-summarizer.git",
   },
   {
     name: "Properstar Estate",
@@ -318,7 +288,6 @@ const projects = [
     ],
     image: proper,
     site_link: "https://www.max-food.pl/",
-    source_code_link: "https://github.com/crveskig/max-food.git",
   },
   {
     name: "Diyar News",
@@ -340,7 +309,6 @@ const projects = [
     ],
     image: diyar,
     site_link: "https://yelpcamps.vercel.app/",
-    source_code_link: "https://github.com/crveskig/yelpcampV3.git",
   },
   {
     name: "Traveling Girls",
@@ -362,7 +330,6 @@ const projects = [
     ],
     image: travel,
     site_link: "https://kanbans.vercel.app/",
-    source_code_link: "https://github.com/crveskig/kanban.git",
   },
   {
     name: "Vikids Women",
@@ -384,7 +351,6 @@ const projects = [
     ],
     image: vikid,
     site_link: "https://kanbans.vercel.app/",
-    source_code_link: "https://github.com/crveskig/kanban.git",
   },
   {
     name: "Rent Furnished",
@@ -406,7 +372,6 @@ const projects = [
     ],
     image: rent,
     site_link: "https://kanbans.vercel.app/",
-    source_code_link: "https://github.com/crveskig/kanban.git",
   },
 ];
 

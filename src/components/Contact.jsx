@@ -18,7 +18,7 @@ const Contact = () => {
     message:'',
   })
 
-  const [loading,setLoading]=useState(false);
+  const [loading, setLoading]=useState(false);
 
   const handleChange=(e)=>{
     const {name,value}=e.target;
@@ -36,10 +36,10 @@ const Contact = () => {
     "template_290qcva",
     {
       from_name:form.name,
-      to_name:"Alex",
+      to_name: "Arved",
       from_email: form.email,
-      to_email:"crveskig@gmail.com",
-      message:form.message,
+      to_email:"cupid.jack505@gmail.com",
+      message: form.message,
     },
     "p1IKxKE7bREMYcFfC"
     ).then(()=>{
@@ -52,7 +52,6 @@ const Contact = () => {
       })
     },(error)=>{
       setLoading(false);
-      console.log(error);
       alert("Something went wrong")
     })
   }
