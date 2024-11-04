@@ -208,170 +208,166 @@ const projects = [
   {
     name: "Cogmento CRM",
     description:
-      "Our TikTok Clone Application includes Google Auth, the ability to upload, publish, share, comment on, and like the videos; filtering by categories and advanced search functionalities, profile pages, suggested accounts, custom responsive design, and much more.",
+      "This platform offers a comprehensive CRM solution that helps businesses manage customer relationships, sales, and marketing efforts through a user-friendly interface and various tools.",
     tags: [
       {
         name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Sanity",
+        name: "Django",
         color: "green-text-gradient",
-      },
-      {
-        name: "TailwindCSS",
-        color: "pink-text-gradient",
       },
     ],
     image: cogmento,
-    site_link: "https://tiktok-mimic.vercel.app",
+    site_link: "https://cogmento.com",
   },
   {
     name: "Goons of Balatroon",
     description:
-      "Master modern web development by building an improved version of Spotify. With a modern homepage, fully-fledged music player, search, lyrics, song exploration features, search, popular music around you, worldwide top charts, and much more",
+      "This website showcases an NFT card game, featuring gameplay mechanics and community engagement through various interactive elements and events.",
     tags: [
       {
-        name: "Nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "RapidAPI",
+        name: "Node",
         color: "green-text-gradient",
       },
       {
-        name: "SCSS",
+        name: "Web3",
         color: "pink-text-gradient",
+      },
+      {
+        name: "IMX",
+        color: "green-text-gradient",
       },
     ],
     image: goons,
-    site_link: "https://lyriks-mimic.netlify.app",
+    site_link: "https://goonsofbalatroon.com",
   },
   {
     name: "HummingBot.io",
     description:
-      "Simplify your reading with Summize, an open-source article summarizer that transforms length articles into clear and concise sumaries",
+      "Hummingbot is an open-source platform that allows users to build and run cryptocurrency trading bots, providing tools for algorithmic trading and liquidity mining across different exchanges.",
     tags: [
       {
-        name: "Nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "ChatGPT",
+        name: "Gatsby",
         color: "green-text-gradient",
       },
       {
-        name: "CSS",
+        name: "Web3",
         color: "pink-text-gradient",
+      },
+      {
+        name: "PixiJS",
+        color: "green-text-gradient",
       },
     ],
     image: humming,
-    site_link: "https://ai-summarizer-zeta.vercel.app",
+    site_link: "https://hummingbot.io",
   },
   {
     name: "Properstar Estate",
     description:
-      "This website has a user-friendly interface for customers to browse products and make purchases. It also has an admin portal for managing orders, inventory, and shipping,",
+      "Properstar is a property rental platform that connects users with real estate listings, offering a variety of properties for rent and sale in different locations, along with helpful search features.",
     tags: [
       {
-        name: "Nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Typescript",
+        name: "Express",
         color: "green-text-gradient",
       },
       {
-        name: "Mongodb",
+        name: "Contentful",
         color: "pink-text-gradient",
       },
     ],
     image: proper,
-    site_link: "https://www.max-food.pl/",
+    site_link: "https://www.properstar.com",
   },
   {
     name: "Diyar News",
     description:
-      "Lets users share and rate campgrounds they have visited, with an interactive interface for easy navigation. It provides valuable insights and recommendations for other campers.",
+      "This real estate development in Bahrain features a master-planned community with residential, commercial, and recreational spaces designed to promote a luxurious lifestyle.",
     tags: [
       {
-        name: "Nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Typescript",
+        name: "Gatsby",
         color: "green-text-gradient",
       },
       {
-        name: "Mongodb",
+        name: "Contentful",
         color: "pink-text-gradient",
       },
     ],
     image: diyar,
-    site_link: "https://yelpcamps.vercel.app/",
+    site_link: "https://www.diyar.bh",
   },
   {
     name: "Traveling Girls",
     description:
-      "Simplify your reading with Summize, an open-source article summarizer that transforms length articles into clear and concise sumaries",
-    tags: [
-      {
-        name: "Nextjs",
-        color: "blue-text-gradient",
-      },
-      {
-        name: "Typescript",
-        color: "green-text-gradient",
-      },
-      {
-        name: "Mongodb",
-        color: "pink-text-gradient",
-      },
-    ],
+    "TravelGirls is a travel companion website that connects men with women looking for travel partners, focusing on romantic connections and shared travel experiences.",
+      tags: [
+        {
+          name: "Angular",
+          color: "blue-text-gradient",
+        },
+        {
+          name: "Node.js",
+          color: "green-text-gradient",
+        }
+      ],
     image: travel,
-    site_link: "https://kanbans.vercel.app/",
+    site_link: "https://www.travelgirls.com",
   },
   {
     name: "Vikids Women",
     description:
-      "Simplify your reading with Summize, an open-source article summarizer that transforms length articles into clear and concise sumaries",
+    "This site offers parenting and child development resources, providing advice on topics like adolescent relationships and children's poetry to support parents and educators.",
     tags: [
       {
-        name: "Nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Typescript",
+        name: "Ruby",
         color: "green-text-gradient",
       },
       {
-        name: "Mongodb",
+        name: "Medium",
         color: "pink-text-gradient",
       },
     ],
     image: vikid,
-    site_link: "https://kanbans.vercel.app/",
+    site_link: "https://www.vikids.ru",
   },
   {
     name: "Rent Furnished",
     description:
-      "Simplify your reading with Summize, an open-source article summarizer that transforms length articles into clear and concise sumaries",
+      "Wunderflats is an online platform for renting furnished apartments in Germany, designed to help tenants find temporary housing while offering landlords a way to connect with verified renters.",
     tags: [
       {
-        name: "Nextjs",
+        name: "React",
         color: "blue-text-gradient",
       },
       {
-        name: "Typescript",
+        name: "Node",
         color: "green-text-gradient",
-      },
-      {
-        name: "Mongodb",
-        color: "pink-text-gradient",
-      },
+      }
     ],
     image: rent,
-    site_link: "https://kanbans.vercel.app/",
+    site_link: "http://wunderflats.com",
   },
 ];
 

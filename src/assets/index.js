@@ -12,18 +12,11 @@ import open from "./open.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-// import html from "./tech/html.png";
-// import css from "./tech/css.png";
-// import javascript from "./tech/javascript.png";
-// import typescript from "./tech/typescript.png";
-// import nodejs from "./tech/nodejs.png";
-// import tailwind from "./tech/tailwind.png";
 import reactjs from "./tech/reactjs.png";
 import next from "./tech/nextjs.png";
 import vue from "./tech/vue.png";
 import angular from "./tech/angular.png";
 import gatsby from "./tech/gatsby.png";
-// import redux from "./tech/redux.png";
 import threejs from "./tech/threejs.svg";
 import express from "./tech/express.png";
 import nest from "./tech/nest.png";
@@ -75,18 +68,11 @@ export {
   menu,
   close,
 
-  // html,
-  // css,
-  // tailwind,
-  // javascript,
-  // typescript,
-  // nodejs,
   reactjs,
   vue,
   next,
   angular,
   gatsby,
-  // redux,
   threejs,
   express,
   nest,
