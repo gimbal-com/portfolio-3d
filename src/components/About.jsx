@@ -40,12 +40,11 @@ const About = () => {
         variants={fadeIn("", "", 0.1, 1)}
         className="mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]"
       >
-        I am a seasoned web and AI developer with a robust background in
-        creating cutting-edge web applications and integrating advanced AI
-        technologies. My expertise spans across various domains of web
-        development, including front-end and back-end technologies, as well as
-        deploying machine learning models and AI-driven solutions to enhance
-        functionality and user experience.
+        Innovative Full-Stack Engineer with 8+ years of experience in frontend and backend development.
+        I am experienced in collaborating with diverse teams and working independently.
+        Remote work has been a significant part of my career with a strong ability to stay productive and connected.
+        Passionate about tackling new challenges, learning new technologies, and finding ways to improve processes.
+        I am committed to delivering great results whether leading projects or supporting the team.
       </motion.p>
 
       <div className="mt-20 flex flex-wrap gap-10 justify-center">
