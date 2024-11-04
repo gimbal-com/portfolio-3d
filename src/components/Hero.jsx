@@ -26,8 +26,7 @@ const Hero = () => {
         </div>
       </div>
       {/* <ComputersCanvas /> */}
-      <div className="flex w-full items-center justify-center absolute xs:bottom-10 bottom-32 w-full
-      flex justify-center items-center">
+      <div className="flex w-full items-center justify-center absolute xs:bottom-10 bottom-32">
         <SkillCloud 
           iconSlugs={[
             "react",

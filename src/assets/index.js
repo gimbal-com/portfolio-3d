@@ -12,12 +12,12 @@ import open from "./open.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
-import html from "./tech/html.png";
-import css from "./tech/css.png";
-import javascript from "./tech/javascript.png";
-import typescript from "./tech/typescript.png";
-import nodejs from "./tech/nodejs.png";
-import tailwind from "./tech/tailwind.png";
+// import html from "./tech/html.png";
+// import css from "./tech/css.png";
+// import javascript from "./tech/javascript.png";
+// import typescript from "./tech/typescript.png";
+// import nodejs from "./tech/nodejs.png";
+// import tailwind from "./tech/tailwind.png";
 import reactjs from "./tech/reactjs.png";
 import next from "./tech/nextjs.png";
 import vue from "./tech/vue.png";
@@ -40,6 +40,8 @@ import shopify from "./company/shopify.png";
 import codechef from "./company/codechef.png";
 import tesla from "./company/tesla.png";
 import Portfolio from "./3dPortfolio.png"
+
+
 import summarizer from "./summarizer.png"
 import tiktok from "./tiktok.png"
 import lyriks from "./lyriks.png"
@@ -48,6 +50,15 @@ import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import te from "./techescapade.png";
 import zombie from "./zombiemania.png";
+
+import cogmento from "./port/cogmento.png";
+import goons from "./port/goons.png";
+import humming from "./port/humming.png";
+import proper from "./port/proper.png";
+import diyar from "./port/diyar.png";
+import travel from "./port/travel.png";
+import vikid from "./port/vikids.png";
+import rent from "./port/rent.png";
 
 export {
   logo,
@@ -98,4 +109,13 @@ export {
   summarizer,
   tiktok,
   lyriks,
+
+  cogmento,
+  goons,
+  humming,
+  proper,
+  diyar,
+  travel,
+  vikid,
+  rent
 };
