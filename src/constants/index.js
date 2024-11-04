@@ -23,6 +23,16 @@ import {
     lyriks,
     zombie,
     threejs,codechef,Portfolio,te,
+    vue,
+    angular,
+    gatsby,
+    next,
+    mysql,
+    qt,
+    python,
+    express,
+    nest,
+    docker,
   } from "../assets";
   
   export const navLinks = [
@@ -65,56 +75,44 @@ import {
   
   const technologies = [
     {
-      name: "HTML 5",
-      icon: html,
-    },
-    {
-      name: "CSS 3",
-      icon: css,
-    },
-    {
-      name: "JavaScript",
-      icon: javascript,
-    },
-    {
-      name: "TypeScript",
-      icon: typescript,
-    },
-    {
       name: "React JS",
       icon: reactjs,
     },
     {
-      name: "PyTorch",
-      icon: pytorch,
+      name: "Next",
+      icon: next,
     },
     {
-      name: "Redux Toolkit",
-      icon: redux,
-    },
-    {
-      name: "Tailwind CSS",
-      icon: tailwind,
-    },
-    {
-      name: "Node JS",
-      icon: nodejs,
-    },
-    {
-      name: "MongoDB",
-      icon: mongodb,
+      name: "Vue",
+      icon: vue,
     },
     {
       name: "Three JS",
       icon: threejs,
     },
     {
-      name: "git",
+      name: "Express",
+      icon: express,
+    },
+    {
+      name: "Nest",
+      icon: nest,
+    },
+    {
+      name: "MongoDB",
+      icon: mongodb,
+    },
+    {
+      name: "MySQL",
+      icon: mysql,
+    },
+    {
+      name: "Git",
       icon: git,
     },
     {
-      name: "figma",
-      icon: figma,
+      name: "Docker",
+      icon: docker,
     },
   ];
   

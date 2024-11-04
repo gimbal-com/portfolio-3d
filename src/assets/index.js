@@ -12,19 +12,28 @@ import open from "./open.png";
 import menu from "./menu.svg";
 import close from "./close.svg";
 
+import html from "./tech/html.png";
 import css from "./tech/css.png";
+import javascript from "./tech/javascript.png";
+import typescript from "./tech/typescript.png";
+import nodejs from "./tech/nodejs.png";
+import tailwind from "./tech/tailwind.png";
+import reactjs from "./tech/reactjs.png";
+import next from "./tech/nextjs.png";
+import vue from "./tech/vue.png";
+import angular from "./tech/angular.png";
+import gatsby from "./tech/gatsby.png";
+// import redux from "./tech/redux.png";
+import threejs from "./tech/threejs.svg";
+import express from "./tech/express.png";
+import nest from "./tech/nest.png";
+import qt from "./tech/qt.png";
+import python from "./tech/python.png";
+import mongodb from "./tech/mongodb.png";
+import mysql from "./tech/mysql.png";
+import git from "./tech/git.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
-import git from "./tech/git.png";
-import html from "./tech/html.png";
-import javascript from "./tech/javascript.png";
-import mongodb from "./tech/mongodb.png";
-import nodejs from "./tech/nodejs.png";
-import reactjs from "./tech/reactjs.png";
-import redux from "./tech/redux.png";
-import tailwind from "./tech/tailwind.png";
-import typescript from "./tech/typescript.png";
-import threejs from "./tech/threejs.svg";
 
 import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
@@ -54,19 +63,30 @@ export {
   open,
   menu,
   close,
-  css,
+
+  // html,
+  // css,
+  // tailwind,
+  // javascript,
+  // typescript,
+  // nodejs,
+  reactjs,
+  vue,
+  next,
+  angular,
+  gatsby,
+  // redux,
+  threejs,
+  express,
+  nest,
+  mongodb,
+  mysql,
+  qt,
+  python,
+  git,
   docker,
   figma,
-  git,
-  html,
-  javascript,
-  mongodb,
-  nodejs,
-  reactjs,
-  redux,
-  tailwind,
-  typescript,
-  threejs,
+
   meta,
   shopify,
   codechef,
