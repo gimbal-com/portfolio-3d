@@ -28,22 +28,6 @@ import git from "./tech/git.png";
 import docker from "./tech/docker.png";
 import figma from "./tech/figma.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import codechef from "./company/codechef.png";
-import tesla from "./company/tesla.png";
-import Portfolio from "./3dPortfolio.png"
-
-
-import summarizer from "./summarizer.png"
-import tiktok from "./tiktok.png"
-import lyriks from "./lyriks.png"
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
-import te from "./techescapade.png";
-import zombie from "./zombiemania.png";
-
 import cogmento from "./port/cogmento.png";
 import goons from "./port/goons.png";
 import humming from "./port/humming.png";
@@ -83,18 +67,6 @@ export {
   git,
   docker,
   figma,
-
-  meta,
-  shopify,
-  codechef,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
-  Portfolio,te,zombie,
-  summarizer,
-  tiktok,
-  lyriks,
 
   cogmento,
   goons,
