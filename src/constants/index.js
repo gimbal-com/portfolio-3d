@@ -107,11 +107,11 @@ const technologies = [
 
 const experiences = [
   {
-    title: "Full-Stack Engineer",
-    company_name: "InsureCert Systems Inc",
+    title: "Project Manager",
+    company_name: "Cerebral Inc",
     icon: "/company/insurecert.png",
     iconBg: "rgb(230, 222, 221)",
-    date: "Nov 2022 - Present",
+    date: "Oct 2020 - June 2024",
     points: [
       "Led a team in the design and development of the AAMI Real Estate Website boosting user experience and functionality by 25%",
       "Optimized MongoDB queries reducing load times and improving overall performance by 40% through modified indexing strategies",
@@ -121,10 +121,10 @@ const experiences = [
   },
   {
     title: "Full-Stack Developer",
-    company_name: "Overture Law",
+    company_name: "Viderity Inc",
     icon: "/company/overture.png",
     iconBg: "rgb(230, 222, 221)",
-    date: "Jan 2022 - Oct 2022",
+    date: "Sep 2017 - May 2020",
     points: [
       "Created the Cogmento CRM platform driving a 30% increase in user engagement through innovated UI/UX features and performance",
       "Partnered with PMs and UI/UX designers to gather requirements resulting in a 20% decrease in development time by refining workflows",
@@ -134,10 +134,10 @@ const experiences = [
   },
   {
     title: "Backend Developer",
-    company_name: "Goons of Balatroon",
+    company_name: "Safe Flight Corporation",
     icon: "/company/goons.png",
     iconBg: "rgb(56, 62, 86)",
-    date: "Mar 2019 - Jan 2022",
+    date: "June 2013 - June 2017",
     points: [
       "Streamlined the backend of the Goons of Balatroon NFT card game resulting in a 160% increase in the number of daily active users",
       "Built an NFT management app using Node.js streamlining backend processes and leading to a 25% rise in NFT transactions",
@@ -147,10 +147,10 @@ const experiences = [
   },
   {
     title: "Frontend Developer",
-    company_name: "Humming Bot",
+    company_name: "Redfin Inc",
     icon: "/company/humming.png",
     iconBg: "rgb(56, 62, 86)",
-    date: "Feb 2017 - Feb 2019",
+    date: "Sep 2009 - June 2013",
     points: [
       "Launched a website for crypto market makers for an open-source software company resulting in a 40% increase in website traffic",
       "Redesigned the frontend onboarding process in collaboration with QA and marketing teams improving user retention by 30%",
